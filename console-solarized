@@ -27,7 +27,7 @@ S_blue="268bd2"
 S_cyan="2aa198"
 S_green="859900"
 
-if [ "$1x"= "lightx" ]; then
+if [ "$1x" = "lightx" ]; then
 
     # Light
 
